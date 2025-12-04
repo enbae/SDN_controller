@@ -30,3 +30,6 @@ Implements:
 - ./pox.oy log.level --DEBUG finalcontroller_skel
 
 - sudo python final_skel.py
+
+
+<img width="405" height="642" alt="Image" src="https://github.com/user-attachments/assets/2be94d62-47d3-4709-86d6-c40cfffd5772" />
